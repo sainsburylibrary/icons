@@ -1,2 +1,2 @@
 # icons
-Icon resources
+Icon resources for Sainsbury Library projects
